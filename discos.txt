@@ -1,0 +1,7 @@
+\\192.168.2.14 NQN
+
+\\192.168.0.98 laboratorio gestión
+
+\\192.168.9.4 Catriel
+
+\\192.168.4.14\Sectores\Ingenieria  Rincon
